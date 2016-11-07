@@ -1,0 +1,45 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2Bg-Cg-7Xu"; */
+"2Bg-Cg-7Xu.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Winter"; ObjectID = "Dj4-zQ-GUK"; */
+"Dj4-zQ-GUK.text" = "Winter";
+
+/* Class = "IBUILabel"; text = "Summer"; ObjectID = "LIc-BQ-Iaw"; */
+"LIc-BQ-Iaw.text" = "Summer";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "N2f-XX-ske"; */
+"N2f-XX-ske.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Spring"; ObjectID = "NML-aH-Ra0"; */
+"NML-aH-Ra0.text" = "Spring";
+
+/* Class = "IBUIButton"; normalTitle = "Fall"; ObjectID = "OpK-hY-Hkx"; */
+"OpK-hY-Hkx.normalTitle" = "Fall";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "Wq9-kQ-nv6"; */
+"Wq9-kQ-nv6.normalTitle" = "Done";
+
+/* Class = "IBUIButton"; normalTitle = "SEASONS"; ObjectID = "Xa9-e0-Psz"; */
+"Xa9-e0-Psz.normalTitle" = "SEASONS";
+
+/* Class = "IBUIButton"; normalTitle = "Winter"; ObjectID = "clv-oM-SEx"; */
+"clv-oM-SEx.normalTitle" = "Winter";
+
+/* Class = "IBUIButton"; normalTitle = "Spring"; ObjectID = "fdc-q9-tOB"; */
+"fdc-q9-tOB.normalTitle" = "Spring";
+
+/* Class = "IBUIButton"; normalTitle = "SHARE"; ObjectID = "h8S-xV-8u0"; */
+"h8S-xV-8u0.normalTitle" = "SHARE";
+
+/* Class = "IBUIButton"; normalTitle = "Summer"; ObjectID = "ifv-k8-LBg"; */
+"ifv-k8-LBg.normalTitle" = "Summer";
+
+/* Class = "IBUIButton"; normalTitle = "UPGRADE"; ObjectID = "vxr-0E-kvJ"; */
+"vxr-0E-kvJ.normalTitle" = "UPGRADE";
+
+/* Class = "IBUILabel"; text = "Fall"; ObjectID = "wK7-vk-RzO"; */
+"wK7-vk-RzO.text" = "Fall";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ziF-9i-1Z2"; */
+"ziF-9i-1Z2.text" = "Label";
